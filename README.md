@@ -14,3 +14,10 @@ pip install tensorflow
 # references
 
 https://www.tensorflow.org/install/pip#system_requirements
+
+
+[pytorch-tutorials](https://pytorch.org/tutorials/)
+
+[tensorflow-in-practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+
+[tensorflow-advanced-techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
